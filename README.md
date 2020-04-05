@@ -21,17 +21,8 @@ th/72157672138992512)
   * Ranger David's personal photos
   * Ranger Anela's personal photos
 * Larinor (provided via direct transfer 2017.05)
-* littleostow (provided via email)
+* littleostow (provided via email 2017)
 * [Ranger Jeanne on Flickr](https://www.flickr.com/photos/jeanner/albums) (as of 2017.08)
 
 ## Glendale Cove, Knights Inlet, British Columbia, Canada
-* [Brown Bear Research Network](http://bearresearch.org/) (sent on flash drive v
-ia mail)
-
-## Brooks Falls, Katmai National Park, Alaska, USA
-
-* littleostow (provided via email 2017)
-
-## Glendale Cove, Knights Inlet, British Columbia, Canada
-
-* Brown Bear Research Network (sent on flash drive via mail 2017.08)
+* [Brown Bear Research Network](http://bearresearch.org/) (sent on flash drive via mail 2017.08)
