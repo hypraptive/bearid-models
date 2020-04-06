@@ -1,5 +1,5 @@
 # bearid-models
-Pre-trained networks and models for [bearid](https://github.com/hypraptive/bearid).
+Pre-trained networks and models for [bearid](https://github.com/hypraptive/bearid) ([tag 20.04](https://github.com/hypraptive/bearid/tree/20.04)).
 
 # Data Sources
 
