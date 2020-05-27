@@ -1,21 +1,14 @@
 # bearid-models
-Pre-trained networks and models for [bearid](https://github.com/hypraptive/bearid) ([tag 20.04](https://github.com/hypraptive/bearid/tree/20.04)).
+Pre-trained networks and models for [bearid](https://github.com/hypraptive/bearid) (make sure to use matching releases).
 
 # Data Sources
 
 ## Brooks Falls, Katmai National Park, Alaska, USA
 * [Anna-Marie_AZ on Flickr](https://www.flickr.com/photos/105187918@N03/albums) (as of 2017.08)
-* [Carla Farris on Flickr](https://www.flickr.com/photos/129908461@N03/albums/wi
-th/72157672138992512)
-  * [Brooks Falls 2015](https://www.flickr.com/photos/129908461@N03/albums/72157
-657150224152)
-  * [Brooks Falls 2016](https://www.flickr.com/photos/129908461@N03/albums/72157
-672138992512)
+* [Carla Farris on Flickr](https://www.flickr.com/photos/129908461@N03/albums/with/72157672138992512)
 * [Ike Fitz on Flickr](https://www.flickr.com/photos/ikefitz/albums)
-  * [Brooks River Wildlife 2015](https://www.flickr.com/photos/ikefitz/albums/72
-157666514167600)
-  * [Brooks River Wildlife 2016](https://www.flickr.com/photos/ikefitz/albums/72
-157665026099739)
+  * [Brooks River Wildlife 2015](https://www.flickr.com/photos/ikefitz/albums/72157666514167600)
+  * [Brooks River Wildlife 2016](https://www.flickr.com/photos/ikefitz/albums/72157665026099739)
 * [Katmai National Park](https://www.nps.gov/katm) (sent on hard disk via mail 2017)
   * Images from their bear monitoring program
   * Ranger David's personal photos
