@@ -1,6 +1,19 @@
 # bearid-models
 Pre-trained networks and models for [bearid](https://github.com/hypraptive/bearid) (make sure to use matching releases).
 
+| Model  | Application | Description |
+| ------ | ----------- | ----------- |
+| bearembed_network.dat | bearembed | Embedding network for BF and BC bears |
+| bearface_network.dat | bearface | Face detector and shape predictor for brown bears |
+| bearsvm_bc.dat | bearsvm | SVM classifier for BC bears |
+| bearsvm_bc_ids.dat | bearsvm | ID mapping for BC bears |
+| bearsvm_network.dat | bearsvm | SVM classifier for BF and BC bears |
+| bearsvm_network_ids.dat | bearsvm | ID mapping for BF and BC bears |
+| embed_andeanbear.dat | bearembed | Embedding network for Andean bear dataset |
+| face_allbears.dat | bearface | Face detector and shape predictor for all bear species |
+| svm_andeanbear.dat | bearsvm | SVM classifier for Andean bear dataset |
+| svm_andeanbear_ids.dat | bearsvm | ID mapping for Andean bear dataset |
+
 # Data Sources
 
 ## Brooks Falls, Katmai National Park, Alaska, USA
